@@ -7,7 +7,7 @@ library(ggplot2)
 library(ggrepel)
 library(dplyr)
 
-signatureMatrix=read.xlsx('Supplementary File S2.xlsx',rowNames=T)
+signatureMatrix=read.xlsx('SupplementaryFileS3.xlsx',rowNames=T)
 
 
 ## Step 1: integrate the signature scores for each species through stouffer method in order to

@@ -7,7 +7,7 @@ library(corto)
 library(dplyr)
 library(ggplot2)
 
-metab.matrix=read.xlsx('Supplementary File S3.xlsx',rowNames=T)
+metab.matrix=read.xlsx('SupplementaryFileS4.xlsx',rowNames=T)
 
 
 # Step 1: integration to identify top up- and down-regulated metabolites

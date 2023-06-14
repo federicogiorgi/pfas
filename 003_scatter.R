@@ -8,7 +8,7 @@ library(NLP)
 library(wordcloud)
 library(tm)
 
-signatureMatrix=read.xlsx('Supplementary File S2.xlsx',rowNames=T)
+signatureMatrix=read.xlsx('SupplementaryFileS3.xlsx',rowNames=T)
 
 
 ## Figure 2B : Scatter plot between two contrasts of mouse and human datasets, 
